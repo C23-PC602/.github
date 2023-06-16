@@ -8,4 +8,7 @@
 
 <details>
   <summary align="center">Expand to More Information</summary>
+  
+  <h2>DCoffee Application</h2>
+  <div align="center"><img src="https://github.com/C23-PC602/.github/assets/80303709/f85802f4-f4ac-4380-b83b-2843676e23e1"/></div>
 </details>
